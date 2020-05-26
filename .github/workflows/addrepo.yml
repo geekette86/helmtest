@@ -32,6 +32,6 @@ jobs:
       run: helm repo add mytesthelm https://manelOyez.github.io/helmtest/
 
     - name: Test if repo is here
-      run: helm serach repo mytesthelm 
+      run: helm search repo mytesthelm 
 
     

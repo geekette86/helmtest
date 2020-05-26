@@ -11,4 +11,25 @@ entries:
     urls:
     - https://manelOyez.github.io/helmtest/helm-test-chart-0.1.0.tgz
     version: 0.1.2
-generated: "2020-05-26T19:44:04.308616529+01:00"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-26T21:17:05.766168045+01:00"
+    description: A Helm chart for Kubernetes
+    digest: ef8cba531d591865dc09c45cdeb10103d9aaadf8eec6a8710fb807d963166a84
+    name: helm-test-chart
+    type: application
+    urls:
+    - https://manelOyez.github.io/helmtest/helm-test-chart-0.1.0.tgz
+    version: 0.1.0
+  helm-test2-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-26T21:17:05.766630763+01:00"
+    description: A Helm chart for Kubernetes
+    digest: e527cecb0a12aee459b5e40aecc68887fa174dcf7002580c4baf2b77d9770fdd
+    name: helm-test2-chart
+    type: application
+    urls:
+    - https://manelOyez.github.io/helmtest/helm-test2-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-26T21:17:05.765564457+01:00"
